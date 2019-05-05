@@ -26,6 +26,10 @@ public class Cardioid extends JFrame {
 		colors.add(Color.BLACK);
 		colors.add(Color.PINK);
 		colors.add(Color.BLACK);
+		colors.add(Color.YELLOW);
+		colors.add(Color.BLACK);
+		colors.add(Color.GREEN);
+		colors.add(Color.BLACK);
         return colors;
 	};
 
